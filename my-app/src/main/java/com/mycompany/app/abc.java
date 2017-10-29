@@ -1,7 +1,7 @@
 
 
 
-class Student
+class Student1
 {
 //int x=10;
 
